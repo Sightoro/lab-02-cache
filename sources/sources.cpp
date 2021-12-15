@@ -1,9 +1,6 @@
-// Copyright 2021 Your Name <your_email>
+// Copyright 2021 Lonskiy Yuriy yuralon.skiy@mail.ru
 
 #include <header.hpp>
-#include <ctime>
-#include <random>
-#include <algorithm>
 
 L_Cache::L_Cache(unsigned length)
     :size(length)
