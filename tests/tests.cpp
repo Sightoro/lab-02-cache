@@ -1,7 +1,6 @@
 // Copyright Lonskiy Yuriy yuralon.skiy@mail.ru
 
 #include <gtest/gtest.h>
-
 #include <header.hpp>
 #include <stdexcept>
 
